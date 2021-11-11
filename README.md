@@ -1,1 +1,2 @@
 # odin-recipes
+In this project I will be building using html code to build a website for recipes. The main page will have multiple links to different pages for specific recipes. I will publish changes via git. By the end of the lesson, I should be more familiar with coding in http, creating a website with multiple pages, and how to stage/commit to git.
